@@ -1,6 +1,6 @@
 # flutter_file_upload
 
-A new Flutter application.
+An [Upload Animation](https://dribbble.com/shots/6656128-Upload-Card-Animation) concept by Mauricio Bucardo implemented using Flutter.
 
 ## Getting Started
 
